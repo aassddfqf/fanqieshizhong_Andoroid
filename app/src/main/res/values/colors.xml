@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="gbk"?>
+<resources>
+    <color name="mian_bg">#1E90FF</color>
+    <color name="secord_bg">#fa690f</color>
+    <color name="thirty_bg">#00BFFF</color>
+    <color name="text_color1">#ffffff</color>
+    <color name="edit_hint_color1">#87CEEB</color>
+</resources>
